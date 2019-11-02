@@ -110,7 +110,7 @@ db.test.getShardDistribution()
 
 ```json
 MongoDB shell version v4.2.0
-connecting to: mongodb://localhost:27013/test?compressors=disabled&gssapiServiceName=mongodb
+connecting to: mongodb://localhost:27017/test?compressors=disabled&gssapiServiceName=mongodb
 Implicit session: session { "id" : UUID("6693e899-4d87-47cd-8723-58013e5e5426") }
 MongoDB server version: 4.2.0
 
@@ -127,7 +127,7 @@ Totals
 
 ```
 MongoDB shell version v4.2.0
-connecting to: mongodb://localhost:27013/test?compressors=disabled&gssapiServiceName=mongodb
+connecting to: mongodb://localhost:27017/test?compressors=disabled&gssapiServiceName=mongodb
 Implicit session: session { "id" : UUID("6693e899-4d87-47cd-8723-58013e5e5426") }
 MongoDB server version: 4.2.0
 
@@ -220,7 +220,7 @@ And the shard distribution ...
 
 ```
 MongoDB shell version v4.2.0
-connecting to: mongodb://localhost:27013/test?compressors=disabled&gssapiServiceName=mongodb
+connecting to: mongodb://localhost:27017/test?compressors=disabled&gssapiServiceName=mongodb
 Implicit session: session { "id" : UUID("54888370-8328-4e31-b71a-cb161135e264") }
 MongoDB server version: 4.2.0
 
